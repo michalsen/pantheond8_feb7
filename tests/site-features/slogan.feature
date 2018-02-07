@@ -6,4 +6,4 @@ Feature: Confirm that configuration was applied
   @api
   Scenario: Add a basic page
     Given I am on "/"
-    Then I should see "dev d8 test site 3"
+    Then I should see "dev d8 new slogan"
