@@ -1,0 +1,14 @@
+uuid: e576bc0c-2ef6-4d31-93c7-348dc7ade415
+name: pantheond8-feb7
+mail: eric.michalsen@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
